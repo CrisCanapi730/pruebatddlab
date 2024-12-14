@@ -3,7 +3,7 @@ import sumar2 from './sumador2.js';
 
 
 describe('Devolver', () => {
-  it('Deberia devolver un numero pasado por parametroo', () => {
+  it('Deberia devolver un numero pasado por parametrooo', () => {
     expect(sumar(1)).toEqual(1);
   });
 });
